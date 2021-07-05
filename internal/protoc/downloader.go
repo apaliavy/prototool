@@ -39,9 +39,9 @@ import (
 	"time"
 
 	"github.com/gofrs/flock"
-	"github.com/uber/prototool/internal/file"
-	"github.com/uber/prototool/internal/settings"
-	"github.com/uber/prototool/internal/vars"
+	"github.com/apaliavy/prototool/internal/file"
+	"github.com/apaliavy/prototool/internal/settings"
+	"github.com/apaliavy/prototool/internal/vars"
 	"go.uber.org/multierr"
 	"go.uber.org/zap"
 )

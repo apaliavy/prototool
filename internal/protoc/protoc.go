@@ -22,9 +22,9 @@ package protoc
 
 import (
 	"github.com/golang/protobuf/protoc-gen-go/descriptor"
-	"github.com/uber/prototool/internal/file"
-	"github.com/uber/prototool/internal/settings"
-	"github.com/uber/prototool/internal/text"
+	"github.com/apaliavy/prototool/internal/file"
+	"github.com/apaliavy/prototool/internal/settings"
+	"github.com/apaliavy/prototool/internal/text"
 	"go.uber.org/zap"
 )
 

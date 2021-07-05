@@ -24,7 +24,7 @@ import (
 	"strings"
 
 	"github.com/emicklei/proto"
-	"github.com/uber/prototool/internal/text"
+	"github.com/apaliavy/prototool/internal/text"
 )
 
 var wktDurationSuffixLinter = NewLinter(

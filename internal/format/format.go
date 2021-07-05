@@ -21,7 +21,7 @@
 package format
 
 import (
-	"github.com/uber/prototool/internal/text"
+	"github.com/apaliavy/prototool/internal/text"
 	"go.uber.org/zap"
 )
 

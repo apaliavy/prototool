@@ -30,8 +30,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/uber/prototool/internal/protostrs"
-	"github.com/uber/prototool/internal/settings"
+	"github.com/apaliavy/prototool/internal/protostrs"
+	"github.com/apaliavy/prototool/internal/settings"
 	"go.uber.org/zap"
 )
 
